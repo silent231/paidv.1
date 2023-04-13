@@ -10,7 +10,7 @@ local Window = Rayfield:CreateWindow({
     ConfigurationSaving = {
        Enabled = false,
        FolderName = nil, -- Create a custom folder for your hub/game
-       FileName = "Verlox Hub Testing"
+       FileName = "Verlox Hub Dev"
     },
     Discord = {
        Enabled = false,
@@ -21,11 +21,11 @@ local Window = Rayfield:CreateWindow({
     KeySettings = {
        Title = "Verlox",
        Subtitle = "Enter key",
-       Note = "Warning, this script isn't finshed yet",
+       Note = "If the game isnt supported script isnt going to work",
        FileName = "resin hub",
        SaveKey = true,
        GrabKeyFromSite = false, -- If this is true, set Key below to the RAW site you would like Rayfield to get the key from
-       Key = "verloxx"
+       Key = "verloxicehub%"
     }
  })
 
