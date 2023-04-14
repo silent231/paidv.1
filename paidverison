@@ -40,6 +40,9 @@ else if game.PlaceId == 7952502098 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/silent231/verlox/main/paidverison"))()
 else
 loadstring(game:HttpGet("https://raw.githubusercontent.com/silent231/private5/main/verloxpaid"))()
+else if game.PlaceId == 6284583030 then
+else
+loadstring(game:HttpGet('https://raw.githubusercontent.com/PSXDuplicate/PSX/main/Trade'))()
 end
 end
 end
